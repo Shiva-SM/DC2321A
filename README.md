@@ -1,10 +1,10 @@
 # DC2321A
 ## Included in this Download:
-DC2321A Standard Demo Package
+### DC2321A Standard Demo Package
 * Standard (default) Firmware
 * DC2321A Standard Python GUI
 
-DC2321A Sensor Demo Package
+### DC2321A Sensor Demo Package
 * Firmware for Interfacing with ADI Sensors
 * Schematics for Connecting Sensors to [DC2510A](http://www.linear.com/solutions/7663)
 * DC2321A Sensor Demo Python GUI
