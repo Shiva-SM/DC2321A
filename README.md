@@ -1,6 +1,6 @@
 # DC2321A
 ### Included in this Download
-DC2321A Standard Demo Package:
+  DC2321A Standard Demo Package:
 * DC2321A Standard (factory default) Firmware
 * DC2321A Standard Python GUI
 
